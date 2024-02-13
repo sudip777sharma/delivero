@@ -36,11 +36,11 @@ Experience: Elevate your dining experience with exclusive deals, promotions, and
 ## Installation
 Steps to install and run your project locally.
 # for Android User
-exp://u.expo.dev/update/cf6c2dbf-9663-4de1-ab8a-c17a4f723e11
+[Link Text](exp://u.expo.dev/update/cf6c2dbf-9663-4de1-ab8a-c17a4f723e11)
 ![image](https://github.com/sudip777sharma/delivero/assets/60563255/5cf6ee29-8272-40a3-aeaa-48be93dd9e74)
 # for Ios User
 ![image](https://github.com/sudip777sharma/delivero/assets/60563255/fcfd2e99-e107-4046-a69f-0564533663c4)
-exp://u.expo.dev/update/e05790cc-f266-4343-9499-72f988aea266
+[Link Text](exp://u.expo.dev/update/e05790cc-f266-4343-9499-72f988aea266)
 
 ## Usage
 How to use your project, including examples or screenshots.
