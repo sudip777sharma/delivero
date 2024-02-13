@@ -1,0 +1,281 @@
+{
+  "restaurants": [
+    {
+      "_id": "h6t4s_restaurant_1",
+      "_type": "restaurant",
+      "name": "Gourmet Grill",
+      "description": "Experience fine dining with our exquisite dishes.",
+      "image": "https://example.com/gourmet-grill.jpg",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "address": "123 Main Street, New York, NY",
+      "rating": 4.7,
+      "reviews": "Exceptional food and service!",
+      "type": ["dcf5g_category_1", "k8m2r_category_3"],
+      "dishes": ["r2b9p_dish_1", "g7n3q_dish_2", "t4y6w_dish_3"]
+    },
+    {
+      "_id": "x9o1a_restaurant_2",
+      "_type": "restaurant",
+      "name": "Spice Village",
+      "description": "Explore the flavors of India with our authentic cuisine.",
+      "image": "https://example.com/spice-village.jpg",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "address": "456 Oak Street, Los Angeles, CA",
+      "rating": 4.5,
+      "reviews": "Delicious food and friendly staff!",
+      "type": ["f3r2d_category_2"],
+      "dishes": ["l7p4e_dish_4", "q1w2e_dish_5", "y6t8u_dish_6"]
+    },
+    {
+      "_id": "n2y8u_restaurant_3",
+      "_type": "restaurant",
+      "name": "Ocean's Edge",
+      "description": "Savor fresh seafood dishes with stunning ocean views.",
+      "image": "https://example.com/oceans-edge.jpg",
+      "lat": 41.8781,
+      "lng": -87.6298,
+      "address": "789 Beach Avenue, Miami, FL",
+      "rating": 4.8,
+      "reviews": "The best seafood restaurant in town!",
+      "type": ["b4t5h_category_4"],
+      "dishes": ["a3c7f_dish_7", "u9i4o_dish_8", "p5l3m_dish_9"]
+    },
+    {
+      "_id": "k1l2j_restaurant_4",
+      "_type": "restaurant",
+      "name": "Veggie Delight",
+      "description": "Indulge in delicious vegetarian dishes made with fresh ingredients.",
+      "image": "https://example.com/veggie-delight.jpg",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "address": "321 Green Street, San Francisco, CA",
+      "rating": 4.6,
+      "reviews": "Even meat lovers will enjoy the food here!",
+      "type": ["z9x8c_category_5"],
+      "dishes": ["f4v6b_dish_10", "w3d5s_dish_11", "h8g7n_dish_12"]
+    },
+    {
+      "_id": "q6w5d_restaurant_5",
+      "_type": "restaurant",
+      "name": "Café Parisien",
+      "description": "Transport yourself to Paris with our delectable French cuisine.",
+      "image": "https://example.com/cafe-parisien.jpg",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "address": "123 Boulevard Lane, Beverly Hills, CA",
+      "rating": 4.7,
+      "reviews": "The croissants here are heavenly!",
+      "type": ["y9t2r_category_6"],
+      "dishes": ["d5s6a_dish_13", "v4b6g_dish_14", "e1a2q_dish_15"]
+    }
+  ],
+
+  "categories": [
+    {
+      "_id": "dcf5g_category_1",
+      "_type": "category",
+      "name": "Italian Cuisine",
+      "description": "Experience the flavors of Italy.",
+      "image": "https://example.com/italian-cuisine.jpg"
+    },
+    {
+      "_id": "f3r2d_category_2",
+      "_type": "category",
+      "name": "Indian Cuisine",
+      "description": "Discover the rich and diverse flavors of India.",
+      "image": "https://example.com/indian-cuisine.jpg"
+    },
+    {
+      "_id": "b4t5h_category_3",
+      "_type": "category",
+      "name": "Steakhouse",
+      "description": "Satisfy your cravings with juicy steaks.",
+      "image": "https://example.com/steakhouse.jpg"
+    },
+    {
+      "_id": "z9x8c_category_4",
+      "_type": "category",
+      "name": "Seafood",
+      "description": "Delight in the flavors of the sea.",
+      "image": "https://example.com/seafood.jpg"
+    },
+    {
+      "_id": "y9t2r_category_5",
+      "_type": "category",
+      "name": "Vegetarian",
+      "description": "Enjoy wholesome vegetarian meals.",
+      "image": "https://example.com/vegetarian.jpg"
+    },
+    {
+      "_id": "u8i9o_category_6",
+      "_type": "category",
+      "name": "French Cuisine",
+      "description": "Experience the elegance of French gastronomy.",
+      "image": "https://example.com/french-cuisine.jpg"
+    },
+    {
+      "_id": "p7o3i_category_7",
+      "_type": "category",
+      "name": "Asian Fusion",
+      "description": "Experience a fusion of flavors from the Far East.",
+      "image": "https://example.com/asian-fusion.jpg"
+    }
+  ],
+
+  "featured": [
+    {
+      "_id": "r3e2w_featured_1",
+      "_type": "featured",
+      "name": "Top Picks",
+      "description": "Check out our top picks of the month!",
+      "restaurants": [
+        "h6t4s_restaurant_1",
+        "x9o1a_restaurant_2",
+        "n2y8u_restaurant_3"
+      ]
+    },
+    {
+      "_id": "l9p8q_featured_2",
+      "_type": "featured",
+      "name": "Family Favorites",
+      "description": "Discover restaurants loved by families.",
+      "restaurants": ["k1l2j_restaurant_4", "q6w5d_restaurant_5"]
+    },
+    {
+      "_id": "m1n2b_featured_3",
+      "_type": "featured",
+      "name": "Healthy Choices",
+      "description": "Explore restaurants offering healthy options.",
+      "restaurants": [
+        "q6w5d_restaurant_5",
+        "k1l2j_restaurant_4",
+        "n2y8u_restaurant_3"
+      ]
+    }
+  ],
+
+  "dishes": [
+    {
+      "_id": "r2b9p_dish_1",
+      "_type": "dish",
+      "name": "Margherita Pizza",
+      "description": "Classic pizza topped with tomatoes, mozzarella, and basil.",
+      "image": "https://example.com/margherita-pizza.jpg",
+      "price": 10.99
+    },
+    {
+      "_id": "g7n3q_dish_2",
+      "_type": "dish",
+      "name": "Tiramisu",
+      "description": "Indulge in this traditional Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese.",
+      "image": "https://example.com/tiramisu.jpg",
+      "price": 6.99
+    },
+    {
+      "_id": "t4y6w_dish_3",
+      "_type": "dish",
+      "name": "Fettuccine Alfredo",
+      "description": "Creamy pasta dish made with fettuccine noodles and Parmesan cheese.",
+      "image": "https://example.com/fettuccine-alfredo.jpg",
+      "price": 14.99
+    },
+    {
+      "_id": "l7p4e_dish_4",
+      "_type": "dish",
+      "name": "Butter Chicken",
+      "description": "Tender pieces of chicken cooked in a creamy tomato-based sauce.",
+      "image": "https://example.com/butter-chicken.jpg",
+      "price": 12.99
+    },
+    {
+      "_id": "q1w2e_dish_5",
+      "_type": "dish",
+      "name": "Samosa",
+      "description": "Crispy pastry filled with spiced potatoes and peas.",
+      "image": "https://example.com/samosa.jpg",
+      "price": 3.99
+    },
+    {
+      "_id": "y6t8u_dish_6",
+      "_type": "dish",
+      "name": "Biryani",
+      "description": "Fragrant rice dish cooked with aromatic spices and your choice of meat or vegetables.",
+      "image": "https://example.com/biryani.jpg",
+      "price": 15.99
+    },
+    {
+      "_id": "a3c7f_dish_7",
+      "_type": "dish",
+      "name": "Grilled Salmon",
+      "description": "Fresh salmon fillet grilled to perfection.",
+      "image": "https://example.com/grilled-salmon.jpg",
+      "price": 18.99
+    },
+    {
+      "_id": "u9i4o_dish_8",
+      "_type": "dish",
+      "name": "Shrimp Scampi",
+      "description": "Juicy shrimp cooked in a garlic butter sauce.",
+      "image": "https://example.com/shrimp-scampi.jpg",
+      "price": 16.99
+    },
+    {
+      "_id": "p5l3m_dish_9",
+      "_type": "dish",
+      "name": "Lobster Tail",
+      "description": "Butterflied lobster tail grilled to perfection.",
+      "image": "https://example.com/lobster-tail.jpg",
+      "price": 25.99
+    },
+    {
+      "_id": "f4v6b_dish_10",
+      "_type": "dish",
+      "name": "Caprese Salad",
+      "description": "Simple yet flavorful salad made with fresh tomatoes, mozzarella, and basil.",
+      "image": "https://example.com/caprese-salad.jpg",
+      "price": 8.99
+    },
+    {
+      "_id": "w3d5s_dish_11",
+      "_type": "dish",
+      "name": "Porterhouse Steak",
+      "description": "Juicy steak with both tenderloin and sirloin cuts.",
+      "image": "https://example.com/porterhouse-steak.jpg",
+      "price": 29.99
+    },
+    {
+      "_id": "h8g7n_dish_12",
+      "_type": "dish",
+      "name": "Crab Legs",
+      "description": "Delicious crab legs steamed to perfection.",
+      "image": "https://example.com/crab-legs.jpg",
+      "price": 32.99
+    },
+    {
+      "_id": "d5s6a_dish_13",
+      "_type": "dish",
+      "name": "Croissant",
+      "description": "Classic French pastry with a flaky texture.",
+      "image": "https://example.com/croissant.jpg",
+      "price": 4.99
+    },
+    {
+      "_id": "v4b6g_dish_14",
+      "_type": "dish",
+      "name": "Coq au Vin",
+      "description": "Traditional French dish of chicken braised with wine, mushrooms, and onions.",
+      "image": "https://example.com/coq-au-vin.jpg",
+      "price": 20.99
+    },
+    {
+      "_id": "e1a2q_dish_15",
+      "_type": "dish",
+      "name": "Eclair",
+      "description": "Decadent French pastry filled with cream and topped with chocolate icing.",
+      "image": "https://example.com/eclair.jpg",
+      "price": 6.99
+    }
+  ]
+}
