@@ -1,6 +1,11 @@
 # Delivero
 
-![Project Photo](url_of_your_photo)
+![Project Photo](dhome.jpg)
+![Project Photo](dres.jpg)
+![Project Photo](ditem.jpg)
+![Project Photo](dcart.jpg)
+![Project Photo](dloader.jpg)
+![Project Photo](dorder.jpg)
 
 ## Description
 delivero is food delivery app
