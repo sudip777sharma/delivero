@@ -1,10 +1,20 @@
 # Delivero
-
+#home screen
 ![Project Photo](dhome.jpg)
+
+# Restaurant screen
 ![Project Photo](dres.jpg)
+
+# Items screen
 ![Project Photo](ditem.jpg)
+
+# Cart screen
 ![Project Photo](dcart.jpg)
+
+# Loader
 ![Project Photo](dloader.jpg)
+
+# Order screen
 ![Project Photo](dorder.jpg)
 
 ## Description
