@@ -1,5 +1,5 @@
 # Delivero
-#home screen
+# home screen
 ![Project Photo](dhome.jpg)
 
 # Restaurant screen
